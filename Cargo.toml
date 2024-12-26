@@ -1,0 +1,8 @@
+[package]
+name = "online_chat"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = "1.42.0"
+tokio-tungstenite = "0.26.1"
